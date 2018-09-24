@@ -15,9 +15,7 @@ public class ProblemSet2 {
 	/**
 	 * You need not modify the main method.
 	 */
-	
-	//Scanner input = new Scanner(System.in);
-	
+		
 	public static void main (String[] args) {
 		ProblemSet2 ps2 = new ProblemSet2();
 		
