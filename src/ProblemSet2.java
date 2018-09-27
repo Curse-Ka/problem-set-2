@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class ProblemSet2 {
+public class ProblemSet2 { 
 	
 	static Scanner input = new Scanner(System.in);
 	// Used Internet to make Scanner accessible within all methods, and appears to not need to be closed?
